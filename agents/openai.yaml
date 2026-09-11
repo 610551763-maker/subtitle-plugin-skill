@@ -1,0 +1,7 @@
+interface:
+  display_name: "字幕插件"
+  short_description: "生成并验证SRT，保护语义断句并支持导入达芬奇"
+  default_prompt: "Use $subtitle-plugin to generate, verify, and import a final SRT into DaVinci Resolve."
+policy:
+  allow_implicit_invocation: true
+
